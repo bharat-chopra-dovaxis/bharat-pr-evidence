@@ -1,0 +1,11 @@
+{
+  "controlledResponse": {
+    "status": 404,
+    "code": "USER_NOT_FOUND",
+    "message": "404"
+  },
+  "dialogs": [
+    "404"
+  ],
+  "calls": 1
+}
